@@ -1,5 +1,5 @@
 body {font-family: Avenir;}
 
-h1 {font-family: 'Courier New', Courier, monospace;}
-h2 {font-family: 'Courier New', Courier, monospace;}
+h1 {font: bold 24px 'Courier New', Courier, monospace;}
+h2 {font: bold 20px 'Courier New', Courier, monospace;}
 p {color:purple; font-size: 24px;}
