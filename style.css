@@ -37,16 +37,17 @@ p {
 	clear: both;
 }
 
-.black-box{
-	background-color: black;
+.box {
 	width: 100px;
 	height: 100px;
+}
+.black-box{
+	background-color: black;
+
 }
 
 .green-box {
 	background-color: green;
-	width: 100px;
-	height: 100px;
 }
 
 .checkbox{
