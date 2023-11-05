@@ -42,3 +42,9 @@ p {
 	width: 50px;
 	height: 50px;
 }
+
+.green-box {
+	background-color: green;
+	width: 50px;
+	height: 50px;
+}
